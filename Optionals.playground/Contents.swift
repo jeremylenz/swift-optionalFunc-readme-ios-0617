@@ -46,5 +46,5 @@ func produceFullName(withFirstName firstName: String, middleName: String?, lastN
     return name
 }
 
-produceFullName(withFirstName: "Jon", middleName: "Bon", lastName: "Jovi")
+produceFullName(withFirstName: "David", middleName: "Jeremy", lastName: "Lenz")
 produceFullName(withFirstName: "Mary", middleName: nil, lastName: "Doe")
